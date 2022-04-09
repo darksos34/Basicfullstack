@@ -1,12 +1,18 @@
 package com.example.basicfullstack;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-import java.util.List;
+import java.util.Optional;
+
+@Repository
 
 public interface UserRepository extends JpaRepository<User, Long> {
-    List<User> findByPublished(boolean published);
-    List<User> findByTitleContaining(String title);
+
+    Optional<User> getUserByUsername(String username);
+    Boolean existsByUsername(String username);
+    Boolean existsByEmail(String email);
 
     User findByEmail(String email);
+
 }
