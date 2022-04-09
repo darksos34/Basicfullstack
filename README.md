@@ -1,4 +1,15 @@
-# Basicfullstack
+# Basic components to build a full stack app
+
+### Backend
+- Spring boot
+- Java JDK 17 
+- PostgreSQL
+
+### Frontend
+- Create-React-app
+- JavaScript
+- NodeJs
+
  
 ### Created by Jordy Coder
 
