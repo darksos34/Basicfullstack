@@ -3,17 +3,17 @@ Setup the basic to main > when finish setup only to Development
 
 DTAP
 
-Development 
-Test
-Accept
-Production
-Main
+1. Development 
+2. Test
+3. Accept
+4. Production
+5. Deployment 
 5 End points needed
 
 Agile way
 
-Development
-Production
+1. Development
+2. Production
 1 End points needed
 
 Commit Changes > Test Changes > Deploy 
