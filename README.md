@@ -18,7 +18,7 @@ Agile way
 ### You will just need one end point each application
 
 Commit Changes > Test Changes > Deploy 
-![PDCA-300x132](https://user-images.githubusercontent.com/59865566/162564614-b74a8e99-98fe-463e-b6ff-7041c1794717.png)
+
 ### Backend
 - Spring boot
 - Java JDK 17 
@@ -31,7 +31,7 @@ Commit Changes > Test Changes > Deploy
 - NodeJs
 
  
-### Created by Jo
+### Created by Jo![PDCA-300x132](https://user-images.githubusercontent.com/59865566/162564614-b74a8e99-98fe-463e-b6ff-7041c1794717.png)
 rdy Coder
 
 ### Version 0.1
