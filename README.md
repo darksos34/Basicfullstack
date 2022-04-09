@@ -8,14 +8,14 @@ DTAP
 3. Accept
 4. Production
 5. Deployment 
-### You will need more end points to build your DTAP environment 
+# 5 End points needed
 
 Agile way
 
 1. Development
 2. Production
 
-### You will just need one end point each application
+#1 End points needed
 
 Commit Changes > Test Changes > Deploy 
 
