@@ -1,12 +1,22 @@
 # Basic components to build a full stack app
 Setup the basic to main > when finish setup only to Development
 
-1. ontwikkel
-2. test
-3. acceptatie
-4. productie > Test frontend
+DTAP
 
-5. Main
+Development 
+Test
+Accept
+Production
+Main
+5 End points needed
+
+Agile way
+
+Development
+Production
+1 End points needed
+
+Commit Changes > Test Changes > Deploy 
 
 ### Backend
 - Spring boot
