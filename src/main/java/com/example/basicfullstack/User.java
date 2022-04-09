@@ -10,10 +10,10 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Entity
-@Table(	name = "users", // Create database table named users
+@Table(	name = "users",
         uniqueConstraints = {
-                @UniqueConstraint(columnNames = "username"), // Username must be unique
-                @UniqueConstraint(columnNames = "email") // Email address must be unique
+                @UniqueConstraint(columnNames = "username"),
+                @UniqueConstraint(columnNames = "email")
         })
 public class User {
     @Id
