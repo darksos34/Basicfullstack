@@ -34,7 +34,6 @@ public class User {
 
     //profile?
     //Role?
-
     public User(String username, String email, String password) {
         this.username = username;
         this.email = email;
