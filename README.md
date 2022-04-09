@@ -8,13 +8,14 @@ DTAP
 3. Accept
 4. Production
 5. Deployment 
-5 End points needed
+# 5 End points needed
 
 Agile way
 
 1. Development
 2. Production
-1 End points needed
+
+#1 End points needed
 
 Commit Changes > Test Changes > Deploy 
 
