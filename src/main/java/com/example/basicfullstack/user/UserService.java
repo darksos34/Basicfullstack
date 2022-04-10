@@ -1,4 +1,4 @@
-package com.example.basicfullstack;
+package com.example.basicfullstack.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
@@ -24,12 +24,10 @@ public class UserService {
         return userRepository.findById(id);
     }
 
-    // Update user
     public void updateUser(User user) {
         userRepository.save(user);
     }
 
-    // Delete user
     public void deleteUser(Long id) {
         userRepository.deleteById(id);
     }
