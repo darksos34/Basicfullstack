@@ -1,12 +1,12 @@
 package com.example.basicfullstack.profile;
 
 import com.example.basicfullstack.user.User;
-import jakarta.validation.constraints.Size;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import javax.persistence.*;
+import javax.validation.constraints.Size;
 import java.io.Serializable;
 import java.util.Date;
 
