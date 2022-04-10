@@ -34,8 +34,7 @@ Commit Changes > Test Changes > Deploy
 - NodeJs
 
  
-### Created by Jo
-rdy Coder
+### Created by Jordy Coder
 
 ### Version 0.1
 
