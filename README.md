@@ -1,4 +1,5 @@
-# Basic components to build a full stack app
+# Full Stack Application Version 1.0
+
 Setup the basic to main > when finish setup only to Development
 
 DTAP
@@ -33,18 +34,10 @@ Commit Changes > Test Changes > Deploy
 - HTML/CSS
 - NodeJs
 
- 
-### Created by Jordy Coder
-
-### Version 0.1
-
-### Updated on 9-4-2022
-
 ### Features
 
-### Dependancies POM.XML
-postgres
-spring web
-### Dependancies package.json
+### Dependancies POM.XML Tree
 
-### Manuals - Tutorials - Course ( nederlands engels?)
+### Dependancies package.json Tree
+
+### Manuals - Tutorials - Course (Languages English/Dutch)
